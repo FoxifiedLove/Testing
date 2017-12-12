@@ -5,3 +5,6 @@ Just a test-repo to get comfortable with using git
 *This text is italicized*
 ~~This was mistaken text~~
 **This text is _extremely_ important**
+
+Quoting text
+> This is a quote!
