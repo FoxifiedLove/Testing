@@ -6,5 +6,5 @@ Just a test-repo to get comfortable with using git
 ~~This was mistaken text~~
 **This text is _extremely_ important**
 
-######Quoting text
+###### Quoting text
 > This is a quote!
